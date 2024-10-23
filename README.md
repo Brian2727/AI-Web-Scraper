@@ -1,5 +1,4 @@
-# AI Web Scraper
- 
+
 # AI Web Scraper Project
 
 ### Overview
