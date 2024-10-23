@@ -28,7 +28,7 @@ This project is an **AI-powered web scraper** designed to extract and process da
 - **Web Scraping**: Selenium, BeautifulSoup
 - **AI/ML Frameworks**: Large Language Model (LLM), TensorFlow, PyTorch
 - **Backend**: Python
-- **Data Storage**: Firebase NoSQL, MongoDB
+- **Data Storage**: SQL
 
 ---
 
